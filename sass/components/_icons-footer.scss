@@ -1,4 +1,9 @@
 icons-footer {
   display: flex;
   gap: 10px;
+  flex-direction: column;
+
+  &_list {
+    display: flex;
+  }
 }

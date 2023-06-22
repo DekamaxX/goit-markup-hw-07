@@ -1,10 +1,10 @@
 .newsletter {
   display: flex;
-  margin-left: auto;
   justify-content: space-between;
   align-items: flex-end;
   width: 570px;
   padding-bottom: 25px;
+  justify-content: space-between;
 
   &__input {
     display: block;
