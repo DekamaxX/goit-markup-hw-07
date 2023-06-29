@@ -10,6 +10,7 @@
   visibility: visible;
   opacity: 1;
   transform: scale(1);
+  transition: $transVisibility, $transOpacity, $transTransform;
 }
 .is-hidden {
   visibility: hidden;

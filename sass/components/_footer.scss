@@ -1,6 +1,5 @@
 .footer {
   background: #2f303a;
-  display: flex;
   padding-top: 60px;
   padding-bottom: 60px;
   &__container {
@@ -31,21 +30,4 @@
     text-transform: uppercase;
     color: getColor("accentLight");
   }
-}
-adress-container {
-  display: flex;
-  justify-content: space-between;
-}
-newsletter-container {
-  display: flex;
-  justify-content: space-between;
-}
-
-footer-space {
-  display: flex;
-  justify-content: space-between;
-}
-footer-newsletter {
-  display: flex;
-  justify-content: space-between;
 }
